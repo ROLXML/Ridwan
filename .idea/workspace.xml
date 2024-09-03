@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61aef621-dd09-47b9-a9c9-fc32bddf1ce4" name="Changes" comment="Greeter">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Address.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EnkapsulasiA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EnkapsulasiB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonF.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/GreeterTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/GreeterTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -36,7 +44,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.EnkapsulasiBKt">
+    <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EnkapsulasiBKt" />
+      <module name="DasarPemrogramanMobile5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GreeterTestKt" />
       <module name="DasarPemrogramanMobile5C" />
@@ -44,8 +59,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonFKt" />
+      <module name="DasarPemrogramanMobile5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnkapsulasiBKt" />
+        <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.GreeterTestKt" />
       </list>
     </recent_temporary>
@@ -87,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725341438482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Greeter">
+      <created>1725344715380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725344715380</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Greeter">
+      <created>1725344760719</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725344760719</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
