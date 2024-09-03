@@ -1,5 +1,7 @@
+package Modul3
+
 fun main(){
-    val greeter=Greeter()
+    val greeter= Greeter()
     greeter.greet()
     greeter.text = "Hi"
     greeter.greet("Anton")

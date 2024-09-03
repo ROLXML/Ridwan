@@ -1,3 +1,5 @@
+package Modul3
+
 class PersonB (_firstName: String, _lastName: String, _age: Int) {
     var firstName:String = _firstName
     var lastName:String = _lastName

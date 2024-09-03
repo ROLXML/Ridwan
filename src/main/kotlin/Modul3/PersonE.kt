@@ -1,3 +1,5 @@
+package Modul3
+
 class PersonE {
     var firstName: String
     var lastName: String

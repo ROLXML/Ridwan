@@ -5,15 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61aef621-dd09-47b9-a9c9-fc32bddf1ce4" name="Changes" comment="Greeter">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Address.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EnkapsulasiA.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EnkapsulasiB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonE.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Blok dan Mo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Boolean(trueorfalse).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Character(char).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Fungsianggotapadastring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Int(Arrayofcharacters).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/KonversiEksplisitchar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Konversisecaraexpilit.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Literal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/LiteralKonstan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Menghapusspasirawstring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Merubahnilaistringygdikembalikanolhreadline.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/PenerapanString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Perintahmasuk.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Programkalkulatorsederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Programsandimorse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/RawString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Representasi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/String(Arrayofcharacters).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/StringTemplate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Tipedata.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Tipedatabilbulat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Tipedatadecimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/Underscoreliteral.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/programcaesarchiper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/val.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul1/var.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/InheritanceB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/InheritanceC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/InheritanceE.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Address.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/Address.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/EnkapsulasiA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/EnkapsulasiA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/EnkapsulasiB.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/EnkapsulasiB.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Greeter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/Greeter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/GreeterTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/GreeterTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InheritanceA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/InheritanceA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/InitOrder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/InitOrder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PersonA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/PersonA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PersonB.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/PersonB.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PersonC.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/PersonC.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PersonD.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/PersonD.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PersonE.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/PersonE.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PersonF.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Modul3/PersonF.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,36 +66,64 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a905e0d3-7c23-4644-982b-9ec927208e38" />
+  </component>
   <component name="ProjectId" id="2lXvMQdzK065kSR2vgZOLfVmWLy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.EnkapsulasiBKt">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\DasarPemrogramanMobile5C\src\main\kotlin\Modul3" />
+      <recent name="C:\Users\user\DasarPemrogramanMobile5C\src\main\kotlin\Modul2" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Modul2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.ProgramsandimorseKt">
+    <configuration name="Boolean_trueorfalse_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul1.Boolean_trueorfalse_Kt" />
+      <module name="DasarPemrogramanMobile5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnkapsulasiBKt" />
+      <option name="MAIN_CLASS_NAME" value="Modul3.EnkapsulasiBKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreeterTestKt" />
+      <option name="MAIN_CLASS_NAME" value="Modul3.GreeterTestKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PersonFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PersonFKt" />
+      <option name="MAIN_CLASS_NAME" value="Modul3.PersonFKt" />
+      <module name="DasarPemrogramanMobile5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramsandimorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramsandimorseKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ProgramsandimorseKt" />
+        <item itemvalue="Kotlin.Boolean_trueorfalse_Kt" />
         <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.GreeterTestKt" />
@@ -125,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725344760719</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Greeter">
+      <created>1725345715636</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725345715636</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,3 +1,5 @@
+package Modul3
+
 class InitOrder(name: String) {
     val firstProperty = "First property: $name".also(::println)
     init {

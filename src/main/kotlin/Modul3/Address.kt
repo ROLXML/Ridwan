@@ -1,3 +1,5 @@
+package Modul3
+
 class Address {
     var name: String = "Holmes, Sherlock"
     var street: String = "Baker"

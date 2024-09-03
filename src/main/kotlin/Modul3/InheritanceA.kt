@@ -1,3 +1,5 @@
+package Modul3
+
 // Parent class
 open class Computer(val name: String,
                     val brand: String) {

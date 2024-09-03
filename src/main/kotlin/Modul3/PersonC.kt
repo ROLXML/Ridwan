@@ -1,3 +1,5 @@
+package Modul3
+
 class PersonC (var firstName: String, var lastName: String, var age: Int) {}
 fun main(){
     val budi = PersonC("Budi", "Gunawan", 21)
