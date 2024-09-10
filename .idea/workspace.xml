@@ -5,17 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61aef621-dd09-47b9-a9c9-fc32bddf1ce4" name="Changes" comment="XML">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Array2dimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayMultiDimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayPrimitive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Collections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/MutableListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Ranges.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArgumenDefaultFungsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/BreakdanContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/BreakdanContinuelabel(FoorLoop).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ElvisOperator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ExceptionHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FoorLoopDalamPerkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FoorLoopdalamperkalianeksponensial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiDenganNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiEkspresiTunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsiMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/FungsitanpaNilaiKembali.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/KalkulatorPercabanganWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/KalkulatorSederhanaPercabangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/LuasdanKelilingLingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Melewatkanpemeriksaan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/MenggunakanPair.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/MenghitungAkarKuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Null.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Pemanggilanyangaaman(safecalls).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/PemeriksaanKondisiNull.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Percabangan2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Perulangan(ForLoop).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ReturnPerulanganLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Whiledandowhile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Whileloopdalamkalkulatorsederhana.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,37 +78,37 @@
       <recent name="Modul2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayPrimitiveKt">
-    <configuration name="ArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul2.ArrayOfKt" />
+  <component name="RunManager" selected="Kotlin.MelewatkanpemeriksaanKt">
+    <configuration name="ArrayMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.ArrayMethodKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPrimitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul2.ArrayPrimitiveKt" />
+    <configuration name="MelewatkanpemeriksaanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.MelewatkanpemeriksaanKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramkalkulatorsederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul1.ProgramkalkulatorsederhanaKt" />
+    <configuration name="NullKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.NullKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramsandimorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgramsandimorseKt" />
+    <configuration name="OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.OperatorKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RawStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul1.RawStringKt" />
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.WhenKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ArrayPrimitiveKt" />
-        <item itemvalue="Kotlin.ArrayOfKt" />
-        <item itemvalue="Kotlin.ProgramkalkulatorsederhanaKt" />
-        <item itemvalue="Kotlin.ProgramsandimorseKt" />
-        <item itemvalue="Kotlin.RawStringKt" />
+        <item itemvalue="Kotlin.MelewatkanpemeriksaanKt" />
+        <item itemvalue="Kotlin.OperatorKt" />
+        <item itemvalue="Kotlin.NullKt" />
+        <item itemvalue="Kotlin.ArrayMethodKt" />
+        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725940656837</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="XML">
+      <created>1725941406295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725941406295</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
