@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61aef621-dd09-47b9-a9c9-fc32bddf1ce4" name="Changes" comment="XML">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Array2dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayMethod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayMultiDimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ArrayPrimitive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/ListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/MutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Modul2/Set.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
@@ -50,9 +62,16 @@
       <recent name="Modul2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayOfKt">
+  <component name="RunManager" selected="Kotlin.ArrayPrimitiveKt">
     <configuration name="ArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modul2.ArrayOfKt" />
+      <module name="DasarPemrogramanMobile5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayPrimitiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Modul2.ArrayPrimitiveKt" />
       <module name="DasarPemrogramanMobile5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,20 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modul1.RepresentasiKt" />
-      <module name="DasarPemrogramanMobile5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayPrimitiveKt" />
         <item itemvalue="Kotlin.ArrayOfKt" />
         <item itemvalue="Kotlin.ProgramkalkulatorsederhanaKt" />
         <item itemvalue="Kotlin.ProgramsandimorseKt" />
         <item itemvalue="Kotlin.RawStringKt" />
-        <item itemvalue="Kotlin.RepresentasiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725351423790</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="XML">
+      <created>1725940656837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940656837</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
